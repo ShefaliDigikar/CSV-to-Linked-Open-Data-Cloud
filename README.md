@@ -3,7 +3,7 @@
 </br></br>
 
 ### Implementation Details
- The implementation is done on eCommerce data containing details of cellphones. 
+ The implementation is done using /networkX/i library on eCommerce cellphone data. 
  ![image](https://user-images.githubusercontent.com/45465068/98400642-652dad00-208a-11eb-9036-e888cb10f683.png)
 
  
