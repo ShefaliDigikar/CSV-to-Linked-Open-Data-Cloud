@@ -1,4 +1,4 @@
-# CSV-to-Linked-Open-Data-Cloud
+# CSV to Linked Open Data Cloud 
   The LOD Cloud is a Knowledge Graph that simply represents a collection of interlinked descriptions of entities – objects, events or concepts as a Semantic Web of Linked Data. It provides a framework for data integration and visualization. Linking data sets from multiple sources often creates ambiguity and redundancy in data, but making use of LOD avoids such problems.
 </br></br>
 
