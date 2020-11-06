@@ -4,7 +4,7 @@
 
 ### Implementation Details
  The implementation is done on eCommerce data containing details of cellphones. 
- ![image](https://user-images.githubusercontent.com/45465068/98400334-d6209500-2089-11eb-82f1-735676bb9ac1.png)
+ ![image](https://user-images.githubusercontent.com/45465068/98400512-24359880-208a-11eb-81bd-d8554343d670.png)
  
    1. A LOD cloud is formed using RDF Triples(Subject Predicate Object), so the first step is to preprocess the data into a suitable format.
    2. Converting the CSV file into RDF triples. Each product has a unique ID which is chosen as the subject, the attribute name as the predicate, and the specification details for that particular attribute as the object.
