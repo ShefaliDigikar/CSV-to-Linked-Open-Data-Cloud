@@ -3,7 +3,7 @@
 </br></br>
 
 ### Implementation Details
- The implementation is done using <mark> networkX </mark> library on eCommerce cellphone data. 
+ The implementation is done using  ***networkX** library on eCommerce cellphone data. 
  ![image](https://user-images.githubusercontent.com/45465068/98400642-652dad00-208a-11eb-9036-e888cb10f683.png)
 
  
