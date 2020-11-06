@@ -10,5 +10,7 @@
    1. A LOD cloud is formed using RDF Triples(Subject Predicate Object), so the first step is to preprocess the data into a suitable format.
    2. Converting the CSV file into RDF triples. Each product has a unique ID which is chosen as the subject, the attribute name as the predicate, and the specification details for that particular attribute as the object.
    3. A LOD cloud consists of nodes and edges. The nodes in the cloud are always unique. Here nodes denote the subject and object present in the triples, whereas the predicate denotes the edges in the graph. 
-</br>
    ![sw1](https://user-images.githubusercontent.com/45465068/98401310-7a570b80-208b-11eb-832b-f2866d0e3dc0.png)
+
+</br>
+ 
