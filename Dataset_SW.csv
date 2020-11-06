@@ -1,0 +1,11 @@
+id,productOf,hasRAM,displaySizeOf,hasBatteryCapacity
+1000,SAMSUNG-Galaxy,2-GB,5-inch,4000mAh
+1005,SAMSUNG-Galaxy,3-GB,5.5-inch,3500mAh
+1006,Mi-A2,2-GB,5.2-inch,5000mAh
+1017,SAMSUNG-Galaxy-A9-Pro,4-GB,6-inch,5000mAh
+1027,Mi-A2,4-GB,5.1-inch,5000mAh
+1029,SAMSUNG-Galaxy-S7,4-GB,5.1-inch,6000mAh
+1023,Apple-iphone6,4-GB,6-inch,3500mAh
+1033,Apple-iPhone7,3-GB,5-inch,4000mAh
+1040,Poco-F7,6-GB,6-inch,4000mAh
+1015,Poco-F7,6-GB,5-inch,3500mAh
